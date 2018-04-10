@@ -1,3 +1,8 @@
 day2
+<<<<<<< HEAD
 
 添加一次，重新提交
+=======
+修改一下
+zuihou
+>>>>>>> 20fd33c1c2c2a467968cbc1c44f88aaa8d6df9fb
